@@ -1,0 +1,4 @@
+/home/chengzi/installed/clion-2018.1.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chengzi/projects/clion/CPP_learn/algorithm
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chengzi/projects/clion/CPP_learn/algorithm/cmake-build-debug

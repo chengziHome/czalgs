@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPP_learn.dir/main.cpp.o CMakeFiles/CPP_learn.dir/employee.cpp.o CMakeFiles/CPP_learn.dir/animal.cpp.o  -o CPP_learn -lpthread 
